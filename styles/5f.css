@@ -1,0 +1,38 @@
+
+  .usd{
+    font-family: arial;
+    font-size: 30;
+    margin-bottom: 0;
+    color: black;
+  }
+  .us{
+    font-size: 18;
+    color: gray;
+    margin-left: 5px;
+  }
+  .today{
+    font-family: arial;
+    font-size: 17;
+    margin-bottom: 0;
+    color: green;
+    margin-top: 5px;
+  }
+  .hours{
+    font-family: arial;
+    font-size: 17;
+    margin-bottom: 0;
+    color: rgb(53, 48, 48);
+    margin-top: 5px;
+
+  }
+  .num{
+    font-family: arial;
+    font-size: 17;
+    margin-bottom: 0;
+    color: red;
+    margin-top: 5px;
+
+  }
+
+  
+

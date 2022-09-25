@@ -1,0 +1,15 @@
+<style>
+  .biggest_text{
+    font-family: arial;
+    font-weight: bold;
+    font-size: 40;
+    margin-bottom: 0px;
+  }
+  .sales_text{
+    color: rgb(212, 51, 51);
+    font-family: arial;
+    font-style: italic;
+    font-size: 30;
+    margin-top: 8px;
+  }
+</style>

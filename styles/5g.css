@@ -1,0 +1,39 @@
+
+  .free{
+    font-family: Arial;
+    color: black;
+    font-size: 18;
+    font-weight: bold;
+    margin-bottom: 0px;
+  }
+  .code{
+    font-family: Arial;
+    color: gray;
+    font-size: 18;
+    font-weight: lighter;
+  
+  }
+  .code:hover{
+    text-decoration: underline;
+  }
+  .AS{
+    font-family: Arial;
+    color: black;
+    font-size: 20;
+    width: 620;
+    margin-top: 8px;
+  }
+  .here{
+    font-family: Arial;
+    color: black;
+    font-size: 19;
+    width: 620;
+    
+  }
+  .chp{
+    color: rgb(51, 220, 250);
+  }
+  .chp:hover{
+    text-decoration: underline;
+  }
+    

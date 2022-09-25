@@ -1,0 +1,18 @@
+.back_button{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 18px;
+  padding-left: 18px;
+  margin-right: 10px;
+}
+.next_button{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 18px;
+  padding-left: 18px;
+  margin-left:10px;
+  
+}
+a{
+  margin-right: 5px;
+}

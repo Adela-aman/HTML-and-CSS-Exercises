@@ -1,0 +1,47 @@
+.get_started{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  font-weight: bold;
+  height: 36px;
+  width: 115px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.download{
+  background-color: white;
+  color: rgb(108, 117, 125);;
+  font-weight: bold;
+  border-width: 1.5px;
+  height: 36px;
+  width: 100px;
+  border-color:rgb(108, 117, 125) ;
+  border-style: solid;
+border-radius: 4px;
+
+margin-left: 4px;
+cursor: pointer;
+}
+.apply_company{
+  background-color: rgb(10, 102, 194);
+  color: white;
+  font-weight: bold;
+  height: 36px;
+  width: 230px;
+  border: none;
+  border-radius: 20px;
+  margin-left: 80px;
+  cursor: pointer;
+}
+.save{
+  color:rgb(10, 102, 194) ;
+  background-color: white;
+  height: 34px;
+  width: 70px;
+  border-radius: 20px;
+  border-color: rgb(10, 102, 194);
+  font-weight: bold;
+  border-width: 1px;
+  margin-left: 4px;
+  cursor: pointer;
+}

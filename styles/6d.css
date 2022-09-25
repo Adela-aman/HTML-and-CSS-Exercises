@@ -1,0 +1,14 @@
+.model{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+.order{
+  font-size: 20px;
+  color: black;
+  text-align: center;
+}
+.TOUCH{
+  text-decoration: underline;
+}

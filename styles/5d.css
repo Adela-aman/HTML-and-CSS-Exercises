@@ -1,0 +1,29 @@
+  
+  .shop{
+    font-size: 30;
+    color: black;
+    font-weight: bold;
+    width: 500px;
+    margin-bottom: 0px;
+    font-family: arial;
+  }
+  .apple{
+    font-size: 20;
+    color: rgb(20, 19, 19);
+    margin-top: 15px;
+   margin-left: 50px;
+   margin-bottom: 0px;
+   font-family: arial;
+
+  }
+  .learn{
+    color: rgb(69, 48, 189);
+    margin-left:110px ;
+    font-size:18 ;
+    margin-top: 15px;
+    font-family: arial;
+    
+  }
+  .learn:hover{
+    text-decoration: underline;
+  }
